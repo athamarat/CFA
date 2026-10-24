@@ -1,0 +1,4 @@
+# CFA curriculum content is copyrighted: never commit book text, chunks or personal notes
+data/
+*.pdf
+.DS_Store
